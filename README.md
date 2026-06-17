@@ -29,7 +29,7 @@
 ##  Table of Contents
 
 - [Project Overview](#-project-overview)
-- [Live Demo](#-live-demo)
+- [Live Demo](https://netguard-ai-network-intrusion-detection-0.streamlit.app)
 - [ML Pipeline](#-ml-pipeline)
 - [App Features](#-app-features)
 - [Project Structure](#-project-structure)
